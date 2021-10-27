@@ -1,0 +1,10 @@
+.container img{
+	width: 161px;
+	height: 248px;
+	display: block;
+	margin: 50px 50px;
+}
+.libros{
+	display: flex;
+	justify-content: space-between;
+}
